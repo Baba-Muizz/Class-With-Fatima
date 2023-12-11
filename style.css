@@ -1,0 +1,38 @@
+*{
+   background-color: rgb(201, 222, 241);
+}
+
+
+.color {
+    background-color: brown;
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    text-decoration:none;
+}
+
+#Country{
+   background-color: rgb(106, 133, 61);
+   font-size: x-large;
+   text-align: center;
+   color:#808080;
+
+}
+
+h3{
+    border: 5px ridge rgb(143, 143, 143);
+    text-align: center;
+    width: 50%;
+}
+
+
+button{
+padding:15px 25px;
+margin-bottom: 5px;
+border-radius: 10px;
+background-color: aquamarine;
+}
+
+
+
